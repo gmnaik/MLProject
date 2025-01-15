@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost
 dill
+Flask
 #-e .                  #Commented this line because we dont want to build package again and again.
